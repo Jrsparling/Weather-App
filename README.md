@@ -14,7 +14,7 @@ This is a weather app that lets users see the weather for a city they type in to
 
 ## Deployed Site
 
-Follow link to the deployed site here --> 
+Follow link to the deployed site here --> https://jrsparling.github.io/Weather-App/
 
 ## Credits
 
